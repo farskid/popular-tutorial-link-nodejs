@@ -46,6 +46,7 @@
 - [Node Style Guide](https://github.com/RisingStack/node-style-guide)
 - [Node.js FUNdamentals: A Concise Overview of The Main Concepts](https://webapplog.com/node-js-fundamentals-a-concise-overview-of-the-main-concepts/)
 - [Node.js Documentation](https://nodejs.org/api/)
+- [Node Weekly](http://nodeweekly.com/)
 - [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
 - [Why the Hell Would You Use Node.js](https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e)
 - [Why Asynchronous?](https://nodesource.com/blog/why-asynchronous/)
@@ -103,6 +104,7 @@
 ## JAVASCRIPT
 
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [http://javascriptweekly.com/](http://javascriptweekly.com/)
 
 ## NPM
 
