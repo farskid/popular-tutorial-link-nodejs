@@ -104,7 +104,7 @@
 ## JAVASCRIPT
 
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
-- [http://javascriptweekly.com/](http://javascriptweekly.com/)
+- [JavaScript Weekly](http://javascriptweekly.com/)
 
 ## NPM
 
