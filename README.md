@@ -133,5 +133,6 @@
 
 ## VIDEOS
 
+- [Beginner Express.js Tutorial | Building a Star Wars Movie App](https://www.youtube.com/watch?v=NALxjuyRXaE)
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
 - [Node.js at Netflix](https://www.youtube.com/watch?v=p74282nDMX8&t=330s)
