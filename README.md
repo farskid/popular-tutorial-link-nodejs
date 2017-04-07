@@ -16,11 +16,12 @@
   <a href="https://github.com/moxart/popular-tutorial-link-nodejs/README.md">Edit the markdown file</a> and add a link, then submit a pull request. please follow the format of the listings.
 </p>
 
-# Contents
+# CONTENTS
 
 - [Articles](#articles)
 - [Authentication](#authentication)
 - [Automation](#automation)
+- [Async](#async)
 - [Blogs](#blogs)
 - [Books](#books)
 - [Courses](#courses)
@@ -28,6 +29,7 @@
 - [Fundamentals](#fundamentals)
 - [JavaScript](#javascript)
 - [NPM](#npm)
+- [RESTful API](#restful-api)
 - [Security](#security)
 - [Tutorials](#tutorials)
 - [Testing](#testing)
@@ -50,6 +52,8 @@
 - [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
 - [Why the Hell Would You Use Node.js](https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e)
 - [Why Asynchronous?](https://nodesource.com/blog/why-asynchronous/)
+- [Web Scraping in Node.js with Multiple Examples](https://hackprogramming.com/web-scraping-in-node-js-with-multiple-examples/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+- [Scraping the Web With Node.js](https://scotch.io/tutorials/scraping-the-web-with-node-js)
 
 ## AUTHENTICATION
 
@@ -58,6 +62,10 @@
 ## AUTOMATION
 
 - [Getting Started with webpack 2](https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783)
+
+## ASYNC
+
+- [The 80/20 Guide to Async/Await in Node.js](http://thecodebarbarian.com/80-20-guide-to-async-await-in-node.js.html?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 ## BLOGS
 
@@ -117,6 +125,10 @@
 - [request](https://www.npmjs.com/package/request)
 - [socket.io](https://github.com/socketio/socket.io)
 - [Q](https://github.com/kriskowal/q)
+
+## RESTful API
+
+- [RESTful API design with Node.js](https://hackernoon.com/restful-api-design-with-node-js-26ccf66eab09)
 
 ## SECURITY
 
